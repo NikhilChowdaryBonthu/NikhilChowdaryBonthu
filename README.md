@@ -1,148 +1,42 @@
 # Hi, I'm Nikhil Chowdary Bonthu
 
-Senior Full-Stack .NET Developer with experience building and supporting enterprise applications using C#, ASP.NET Core, REST APIs, SQL Server, Azure, JavaScript/TypeScript, React, and Angular.
+Senior Full-Stack .NET Developer with a backend focus. I build and support applications with C#, ASP.NET Core, REST APIs, SQL Server, Azure, and modern JavaScript frameworks. My work spans API and database development, production troubleshooting, application modernization, and user-facing features.
 
-My primary focus is backend and API development, with hands-on experience working across the full application lifecycle—from designing services and database integrations to troubleshooting production issues, modernizing legacy applications, and building user-facing features.
+I also build practical AI projects, especially tools that make local models useful without sending personal files to a cloud AI service.
 
-I also enjoy exploring practical applications of AI and local language models, particularly where they can be integrated into everyday software workflows.
-
-## Technical Skills
-
-**Backend**
-
-* C#
-* ASP.NET Core
-* .NET / .NET Core
-* REST APIs
-* Web API
-* Entity Framework
-* LINQ
-* Microservices
-* SOAP / Web Services
-
-**Frontend**
-
-* React
-* Angular
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* Bootstrap
-
-**Database**
-
-* SQL Server
-* PostgreSQL
-* SQLite
-* Query Optimization
-* Stored Procedures
-* Database Performance Troubleshooting
-
-**Cloud & DevOps**
-
-* Microsoft Azure
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD
-
-**AI & Machine Learning**
-
-* Ollama
-* Local LLM Integration
-* Stable Diffusion
-* Hugging Face
-* PyTorch
-* Gradio
-
-## Featured Projects
+## Featured projects
 
 ### AI File Organizer
 
-A privacy-focused desktop application built with C# and .NET that helps users review and organize files using local AI.
+A macOS desktop app that suggests where files should go, then waits for the user to review and approve each move. Local Ollama classification, duplicate detection, Undo, and SQLite history support a privacy-first workflow.
 
-The application integrates Ollama with a locally running language model to classify files without sending personal documents to a cloud AI service.
+**Built with:** C#, .NET, Avalonia UI, Ollama, SQLite
 
-**Key features**
-
-* Local AI-powered file classification
-* File and folder scanning
-* Duplicate-file detection
-* Safe file organization with user review
-* Undo support
-* Folder monitoring
-* SQLite-based local history
-* Avalonia desktop interface
-* macOS application packaging
-* GitHub Actions build workflow
-
-**Technologies:** C#, .NET, Avalonia UI, Ollama, SQLite
-
-[View AI File Organizer](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer)
-
----
+[Explore the project](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer) · [Download the Apple Silicon app](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer/releases/tag/v2.1.1)
 
 ### PawMatch
 
-A full-stack dog-adoption discovery application that allows users to browse dogs, evaluate compatibility, save favorites, and submit adoption interest.
+A dog-discovery portfolio MVP with four sample listings. Visitors can filter dogs, see an illustrative size-and-energy score, save favorites, and submit an interest note through Supabase. Scores are not personalized, and submissions are not sent to shelters.
 
-The project includes authentication, persistent application data, database-level security, matching logic, and automated testing.
+**Built with:** JavaScript, HTML, CSS, Supabase Auth, PostgreSQL
 
-**Key features**
-
-* Searchable dog listings
-* Compatibility scoring
-* Supabase authentication
-* PostgreSQL database
-* Persistent favorites
-* Adoption-interest submissions
-* Row Level Security
-* Responsive UI
-* Automated matching tests
-
-**Technologies:** JavaScript, HTML, CSS, Supabase, PostgreSQL
-
-[View PawMatch](https://github.com/NikhilChowdaryBonthu/PawMatch) | [Live Demo](https://nikhilchowdarybonthu.github.io/PawMatch/)
-
----
+[Try the live demo](https://nikhilchowdarybonthu.github.io/PawMatch/) · [Explore the project](https://github.com/NikhilChowdaryBonthu/PawMatch)
 
 ### AI Creative Studio
 
-A text-to-image generation application built around Stable Diffusion with an interactive Gradio interface.
+A text-to-image workflow using a pretrained Stable Diffusion v1.5 model. Run the notebook on a Google Colab GPU and generate images through its Gradio interface. The repository includes a verified demo recording; it is not a permanently hosted app, and no new model was trained.
 
-The project supports configurable image-generation parameters and can run through Google Colab or be deployed as a Hugging Face application.
+**Built with:** Python, PyTorch, Hugging Face Diffusers, Gradio, Google Colab
 
-**Key features**
+[Run the Colab notebook](https://colab.research.google.com/github/NikhilChowdaryBonthu/Ai-Creative-Studio/blob/main/stable_diffusion_studio.ipynb) · [Watch the demo](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio#short-demo-video) · [Explore the project](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio)
 
-* Text-to-image generation
-* Stable Diffusion integration
-* Interactive Gradio interface
-* GPU-based inference
-* Prompt and generation controls
-* Hugging Face deployment support
+## Core skills
 
-**Technologies:** Python, PyTorch, Stable Diffusion, Hugging Face, Gradio, Google Colab
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework
+- **Frontend:** JavaScript, TypeScript, React, Angular, HTML, CSS
+- **Data and delivery:** SQL Server, PostgreSQL, SQLite, Azure, GitHub Actions, CI/CD
+- **Applied AI:** Ollama, PyTorch, Hugging Face Diffusers, Gradio
 
-[View AI Creative Studio](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio)
+## Contact
 
-## What I'm Currently Working On
-
-* Building practical applications with C# and modern .NET
-* Exploring local AI and LLM integration with enterprise applications
-* Improving application architecture, testing, and CI/CD practices
-* Developing projects that combine software engineering with AI-driven functionality
-
-## Areas of Interest
-
-* Enterprise .NET development
-* Backend and API architecture
-* Application modernization
-* Cloud-native development
-* Database performance
-* AI-assisted applications
-* Local and privacy-focused AI
-
-## Connect
-
-GitHub: [NikhilChowdaryBonthu](https://github.com/NikhilChowdaryBonthu)
+[Email me](mailto:nikhilbonthu2@gmail.com)
