@@ -1,42 +1,32 @@
-# Hi, I'm Nikhil Chowdary Bonthu
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Nikhil Chowdary Bonthu — Senior Full-Stack .NET Developer. Profile banner with an ASCII portrait and selected work." src="./dark.svg" width="100%">
+</picture>
 
-Senior Full-Stack .NET Developer with a backend focus. I build and support applications with C#, ASP.NET Core, REST APIs, SQL Server, Azure, and modern JavaScript frameworks. My work spans API and database development, production troubleshooting, application modernization, and user-facing features.
+## About me
 
-I also build practical AI projects, especially tools that make local models useful without sending personal files to a cloud AI service.
+I'm a Senior Full-Stack .NET Developer with a backend focus. I build and support applications using C#, ASP.NET Core, REST APIs, SQL Server, Azure, and modern JavaScript frameworks. My work spans API and database development, production troubleshooting, application modernization, and user-facing features.
 
-## Featured projects
+I also build practical AI projects—especially tools that make local models useful without sending personal files to a cloud AI service. My approach is to make the workflow understandable, testable, and useful before adding complexity.
 
-### AI File Organizer
+## Selected work
 
-A macOS desktop app that suggests where files should go, then waits for the user to review and approve each move. Local Ollama classification, duplicate detection, Undo, and SQLite history support a privacy-first workflow.
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **AI File Organizer** | Privacy-first macOS desktop app that suggests file destinations with local Ollama, then waits for review before moving anything. Includes duplicate detection, Undo, and SQLite history. | [Repository](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer) · [Apple Silicon release](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer/releases/tag/v2.1.1) |
+| **PawMatch** | Dog-discovery portfolio MVP with four sample listings, filters, an illustrative size-and-energy score, favorites, and interest notes backed by Supabase. Scores are not personalized; notes are not sent to shelters. | [Repository](https://github.com/NikhilChowdaryBonthu/PawMatch) · [Live demo](https://nikhilchowdarybonthu.github.io/PawMatch/) |
+| **AI Creative Studio** | Text-to-image workflow using pretrained Stable Diffusion v1.5 through a Colab GPU notebook and Gradio interface. Includes a verified demo recording; it is not a permanently hosted app, and no model was trained. | [Repository](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio) · [Run in Colab](https://colab.research.google.com/github/NikhilChowdaryBonthu/Ai-Creative-Studio/blob/main/stable_diffusion_studio.ipynb) · [Watch demo](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio#short-demo-video) |
 
-**Built with:** C#, .NET, Avalonia UI, Ollama, SQLite
+## Toolkit
 
-[Explore the project](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer) · [Download the Apple Silicon app](https://github.com/NikhilChowdaryBonthu/AIFileOrganizer/releases/tag/v2.1.1)
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, REST APIs, Entity Framework |
+| Frontend | JavaScript, TypeScript, React, Angular, HTML, CSS |
+| Data & delivery | SQL Server, PostgreSQL, SQLite, Azure, GitHub Actions, CI/CD |
+| Applied AI | Ollama, PyTorch, Hugging Face Diffusers, Gradio |
 
-### PawMatch
+## Connect
 
-A dog-discovery portfolio MVP with four sample listings. Visitors can filter dogs, see an illustrative size-and-energy score, save favorites, and submit an interest note through Supabase. Scores are not personalized, and submissions are not sent to shelters.
-
-**Built with:** JavaScript, HTML, CSS, Supabase Auth, PostgreSQL
-
-[Try the live demo](https://nikhilchowdarybonthu.github.io/PawMatch/) · [Explore the project](https://github.com/NikhilChowdaryBonthu/PawMatch)
-
-### AI Creative Studio
-
-A text-to-image workflow using a pretrained Stable Diffusion v1.5 model. Run the notebook on a Google Colab GPU and generate images through its Gradio interface. The repository includes a verified demo recording; it is not a permanently hosted app, and no new model was trained.
-
-**Built with:** Python, PyTorch, Hugging Face Diffusers, Gradio, Google Colab
-
-[Run the Colab notebook](https://colab.research.google.com/github/NikhilChowdaryBonthu/Ai-Creative-Studio/blob/main/stable_diffusion_studio.ipynb) · [Watch the demo](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio#short-demo-video) · [Explore the project](https://github.com/NikhilChowdaryBonthu/Ai-Creative-Studio)
-
-## Core skills
-
-- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework
-- **Frontend:** JavaScript, TypeScript, React, Angular, HTML, CSS
-- **Data and delivery:** SQL Server, PostgreSQL, SQLite, Azure, GitHub Actions, CI/CD
-- **Applied AI:** Ollama, PyTorch, Hugging Face Diffusers, Gradio
-
-## Contact
-
-[Email me](mailto:nikhilbonthu2@gmail.com)
+[Email me](mailto:nikhilbonthu2@gmail.com) if you'd like to discuss full-stack engineering or one of these projects.
