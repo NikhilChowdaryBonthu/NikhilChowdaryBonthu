@@ -8,7 +8,9 @@
 
 I'm a Senior Full-Stack .NET Developer with a backend focus. I build and support applications using C#, ASP.NET Core, REST APIs, SQL Server, Azure, and modern JavaScript frameworks. My work spans API and database development, production troubleshooting, application modernization, and user-facing features.
 
-I also build practical AI projects—especially tools that make local models useful without sending personal files to a cloud AI service. My approach is to make the workflow understandable, testable, and useful before adding complexity.
+I also build practical AI projects. In AI File Organizer, I integrated a local LLM through Ollama to suggest file destinations while keeping the user in control of every move. In AI Creative Studio, I put a pretrained image-generation model behind a Gradio interface in Google Colab. These projects have taught me to think about model choice, privacy, user review, and the difference between an impressive demo and a dependable workflow.
+
+I'm interested in the next step for AI applications: connecting LLMs to useful tools and data through the Model Context Protocol (MCP). I am exploring MCP-based integrations; the public projects below demonstrate my current hands-on AI work, not a production MCP system.
 
 ## Selected work
 
@@ -25,7 +27,9 @@ I also build practical AI projects—especially tools that make local models use
 | Backend | C#, .NET, ASP.NET Core, REST APIs, Entity Framework |
 | Frontend | JavaScript, TypeScript, React, Angular, HTML, CSS |
 | Data & delivery | SQL Server, PostgreSQL, SQLite, Azure, GitHub Actions, CI/CD |
-| Applied AI | Ollama, PyTorch, Hugging Face Diffusers, Gradio |
+| AI & LLM workflows | Ollama, local LLM inference, prompt-to-action workflows with human review |
+| Generative AI tools | PyTorch, Hugging Face Diffusers, Stable Diffusion v1.5, Gradio, Google Colab |
+| Exploring | Model Context Protocol (MCP) and tool-connected LLM applications |
 
 ## Connect
 
